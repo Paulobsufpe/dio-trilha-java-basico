@@ -1,4 +1,4 @@
-package org.example;
+package org.contabancaria;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
